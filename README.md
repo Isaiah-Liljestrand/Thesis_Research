@@ -1,7 +1,11 @@
 Author:Isaiah Liljestrand
+
 Research Advisor:Dr. Subhasish Mazumdar
+
 Project:Pairwise classification of tissue types based on gene expression levels - Thesis research
+
 Purpose:Collaborative research effort between Los Alamos National Labs and New Mexico Tech to use machine learning to find the most useful genes for classification to assist in stem cell research.
+
 This is most of the research done by me for this project, there are old experiments including correlation-based filtering and parallelization experimentation that did not end up providing anything useful that are not included here.
 
 The primary research done here falls under two categories that went hand in hand. Other research was focused on finding the most useful genes based on multiple metrics.
