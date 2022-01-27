@@ -27,6 +27,7 @@ The second is pairwise aggregation methods, ways to combine all pairwise classif
     -There are four pairwise aggregation methods all of which involve potential to result in tied results
     
     -1: Class voting: Each pairwise classifier contributes a vote towards the winning label and another vote against the losing label. ties contribute a positive vote towards both
+    
     -2: Victim elimination: Run class voting but remove label with the worst score. Repeat until either one label remains or the remaining labels are locked in a stalemate
     
     -3: Tourney: Tournament classification that randomly pairs up labels that are classified against each other to move onto the next round until one remains, or tied in a stalemate
